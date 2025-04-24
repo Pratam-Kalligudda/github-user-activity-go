@@ -49,3 +49,5 @@ Replace `<username>` with the GitHub username you want to fetch activity for.
 ## Prerequisites
 
 - [Go](https://golang.org/) installed on your system.
+
+https://roadmap.sh/projects/github-user-activity
